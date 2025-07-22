@@ -1,2 +1,2 @@
-# Animan
-Animan code
+# Amiman
+Firebase destekli anime izleme sitesi örneği.
